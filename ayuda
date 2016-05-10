@@ -1,0 +1,1133 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 14">
+<meta name=Originator content="Microsoft Word 14">
+<link rel=File-List href="ayuda_archivos/filelist.xml">
+<link rel=Edit-Time-Data href="ayuda_archivos/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>LUIS</o:Author>
+  <o:LastAuthor>LUIS</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>5</o:TotalTime>
+  <o:Created>2016-05-01T17:14:00Z</o:Created>
+  <o:LastSaved>2016-05-01T17:14:00Z</o:LastSaved>
+  <o:Pages>10</o:Pages>
+  <o:Words>861</o:Words>
+  <o:Characters>4740</o:Characters>
+  <o:Lines>39</o:Lines>
+  <o:Paragraphs>11</o:Paragraphs>
+  <o:CharactersWithSpaces>5590</o:CharactersWithSpaces>
+  <o:Version>14.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData href="ayuda_archivos/themedata.thmx">
+<link rel=colorSchemeMapping href="ayuda_archivos/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>ES-EC</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073786111 1 0 415 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
+@font-face
+	{font-family:"Myriad Pro";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:"Myriad Pro";
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Texto de globo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-fareast-language:EN-US;}
+p.Default, li.Default, div.Default
+	{mso-style-name:Default;
+	mso-style-unhide:no;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Myriad Pro","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-bidi-font-family:"Myriad Pro";
+	color:black;
+	mso-fareast-language:EN-US;}
+p.Pa15, li.Pa15, div.Pa15
+	{mso-style-name:Pa15;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-parent:Default;
+	mso-style-next:Default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-line-height-alt:11.05pt;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Myriad Pro","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+span.TextodegloboCar
+	{mso-style-name:"Texto de globo Car";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Texto de globo";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-ascii-font-family:Tahoma;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1494374822;
+	mso-list-template-ids:386007948;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-legal-format:yes;
+	mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;
+	mso-ansi-font-weight:bold;}
+@list l0:level3
+	{mso-level-legal-format:yes;
+	mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:90.0pt;
+	text-indent:-36.0pt;}
+@list l0:level4
+	{mso-level-legal-format:yes;
+	mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:126.0pt;
+	text-indent:-54.0pt;}
+@list l0:level5
+	{mso-level-legal-format:yes;
+	mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:144.0pt;
+	text-indent:-54.0pt;}
+@list l0:level6
+	{mso-level-legal-format:yes;
+	mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:180.0pt;
+	text-indent:-72.0pt;}
+@list l0:level7
+	{mso-level-legal-format:yes;
+	mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:198.0pt;
+	text-indent:-72.0pt;}
+@list l0:level8
+	{mso-level-legal-format:yes;
+	mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:234.0pt;
+	text-indent:-90.0pt;}
+@list l0:level9
+	{mso-level-legal-format:yes;
+	mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:270.0pt;
+	text-indent:-108.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabla normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=ES-EC style='tab-interval:35.4pt'>
+
+<div class=WordSection1>
+
+<p class=Default align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:16.0pt;mso-bidi-font-size:11.0pt;font-family:
+"Arial","sans-serif";color:#00B050'>AYUDA DE PANTALLAS DE LA APLICACIÓN WEB
+(EVENTO DE SOFTWARE)<o:p></o:p></span></b></p>
+
+<p class=Default style='text-align:justify'><span style='mso-bidi-font-size:
+11.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=Default style='text-align:justify'><span style='mso-bidi-font-size:
+11.0pt;font-family:"Arial","sans-serif"'>Ayuda de las pantallas para el administrador
+y comprenda navegabilidad y usabilidad del mismo.<o:p></o:p></span></p>
+
+<p class=Default style='text-align:justify'><span style='mso-bidi-font-size:
+11.0pt;font-family:"Arial","sans-serif"'>Se considera como un manual para el
+usuario administrador o registrado. <o:p></o:p></span></p>
+
+<p class=Default style='text-align:justify'><span style='mso-bidi-font-size:
+11.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=Default><b style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-size:
+11.0pt;font-family:"Arial","sans-serif"'>Pantalla de Bienvenida:<o:p></o:p></span></b></p>
+
+<p class=Default style='text-align:justify'><span style='mso-bidi-font-size:
+11.0pt;font-family:"Arial","sans-serif"'>Para la navegabilidad y uso debe hacer
+cli en evento para acceder al evento o si no puede registrarse.<o:p></o:p></span></p>
+
+<p class=Default style='text-align:justify'><span style='mso-bidi-font-size:
+11.0pt;font-family:"Arial","sans-serif"'>Del mismo modo para el
+administrador.<span style='mso-spacerun:yes'>  </span>Ver ejemplo figura
+siguiente:<o:p></o:p></span></p>
+
+<p class=Default><span style='mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif"'><span
+style='mso-spacerun:yes'> </span></span><span style='mso-fareast-language:ES-EC;
+mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+ o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+ stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="Imagen_x0020_2" o:spid="_x0000_i1043" type="#_x0000_t75"
+ style='width:441.75pt;height:194.25pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image001.png" o:title="" cropbottom="14247f"/>
+</v:shape><![endif]--><![if !vml]><img width=589 height=259
+src="ayuda_archivos/image002.jpg" v:shapes="Imagen_x0020_2"><![endif]></span><span
+style='mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_21" o:spid="_x0000_i1042" type="#_x0000_t75" style='width:441.75pt;
+ height:240.75pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image003.png" o:title="" croptop="8370f"/>
+</v:shape><![endif]--><![if !vml]><img width=589 height=321
+src="ayuda_archivos/image004.jpg" v:shapes="Imagen_x0020_21"><![endif]></span><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
+
+<p class=Default><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+
+<p class=Pa15 style='text-align:justify;line-height:115%'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif";color:black'>Pantalla de
+inicio de sesión del participante o evento:<o:p></o:p></span></b></p>
+
+<p class=Default style='text-align:justify'><span style='font-family:"Arial","sans-serif"'>Una
+vez presionado en evento, debe llenar los datos de Correo y cedula y presionar
+ingresar, caso contrario puede presionar Regístrate si no tiene una
+cuenta.<span style='mso-spacerun:yes'>   </span></span><span style='mso-bidi-font-size:
+11.0pt;font-family:"Arial","sans-serif"'>Ver ejemplo figura siguiente:</span><span
+style='font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_4" o:spid="_x0000_i1041" type="#_x0000_t75" style='width:348.75pt;
+ height:217.5pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image005.png" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=465 height=290
+src="ayuda_archivos/image006.jpg" v:shapes="Imagen_x0020_4"><![endif]></span><o:p></o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'>Pantalla de acceso correcto:<o:p></o:p></b></p>
+
+<p class=Default style='text-align:justify'><span style='font-family:"Arial","sans-serif"'>Si
+tiene una cuenta o se registró y accedió a esta pantalla le aparecerá un
+mensaje de color amarillo para que acceda a la información del taller: </span><span
+style='mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif"'>Ver ejemplo
+figura siguiente:</span><span style='font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_5" o:spid="_x0000_i1040" type="#_x0000_t75" style='width:357.75pt;
+ height:183.75pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image007.png" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=477 height=245
+src="ayuda_archivos/image008.jpg" v:shapes="Imagen_x0020_5"><![endif]></span><o:p></o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><b style='mso-bidi-font-weight:normal'>Pantalla de información
+de evento o talleres:<o:p></o:p></b></p>
+
+<p class=Default style='text-align:justify'><span style='font-family:"Arial","sans-serif"'>En
+esta pantalla podrá informase de los eventos o cursos en el que se inscribió, y
+como puede ver existe una información previa, y también puede cerrar sesión: </span><span
+style='mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif"'>Ver ejemplo
+figura siguiente:</span><span style='font-family:"Arial","sans-serif"'><span
+style='mso-spacerun:yes'>    </span><o:p></o:p></span></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_6" o:spid="_x0000_i1039" type="#_x0000_t75" style='width:441.75pt;
+ height:260.25pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image009.png" o:title="" cropbottom="3740f"/>
+</v:shape><![endif]--><![if !vml]><img width=589 height=347
+src="ayuda_archivos/image010.jpg" v:shapes="Imagen_x0020_6"><![endif]><span
+style='mso-spacerun:yes'> </span><!--[if gte vml 1]><v:shape id="Imagen_x0020_7"
+ o:spid="_x0000_i1038" type="#_x0000_t75" style='width:441.75pt;height:209.25pt;
+ visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image011.png" o:title="" croptop="10330f"
+  cropbottom="5520f"/>
+</v:shape><![endif]--><![if !vml]><img width=589 height=279
+src="ayuda_archivos/image012.jpg" v:shapes="Imagen_x0020_7"><![endif]></span><span
+style='mso-spacerun:yes'> </span><o:p></o:p></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_8" o:spid="_x0000_i1037" type="#_x0000_t75" style='width:441.75pt;
+ height:101.25pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image013.png" o:title="" croptop="41494f"/>
+</v:shape><![endif]--><![if !vml]><img width=589 height=135
+src="ayuda_archivos/image014.jpg" v:shapes="Imagen_x0020_8"><![endif]></span><o:p></o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'>Pantalla de registro de participante: <o:p></o:p></b></p>
+
+<p class=Default style='text-align:justify'><span style='font-family:"Arial","sans-serif"'>Si
+accedió en la parte de Regístrate le aparecerá<span style='mso-spacerun:yes'> 
+</span>una interfaz donde le permitirá llenar los datos, y completar la
+información correctamente.<o:p></o:p></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón nuevo:</span></b><span
+style='font-family:"Arial","sans-serif"'> Permite generar un Número o código
+del mismo para poder registrarse.<o:p></o:p></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Inscribir: </span></b><span
+style='font-family:"Arial","sans-serif"'>Permite guardar los datos para el
+evento, esto ocurre siempre y cuando estén llenos los datos sino le presentará
+un error. <b style='mso-bidi-font-weight:normal'><span
+style='mso-spacerun:yes'> </span><o:p></o:p></b></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Listar Inscritos: </span></b><span
+style='font-family:"Arial","sans-serif"'>Permite mostrar la tabla o matriz de
+los participantes registrados donde si está registrado puede iniciar sesión. <b
+style='mso-bidi-font-weight:normal'><span style='mso-spacerun:yes'> </span><o:p></o:p></b></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Cancelar: </span></b><span
+style='font-family:"Arial","sans-serif"'>Permite salir de la aplicación en caso
+de no querer realizar ninguna acción.<o:p></o:p></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Cerrar Sesión: </span></b><span
+style='font-family:"Arial","sans-serif"'>Permite salir de la aplicación en caso
+de no querer realizar ninguna acción. <b style='mso-bidi-font-weight:normal'><span
+style='mso-spacerun:yes'> </span><o:p></o:p></b></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><o:p>&nbsp;</o:p></b></p>
+
+<p class=Default><span style='mso-spacerun:yes'> </span><span style='mso-bidi-font-size:
+11.0pt;font-family:"Arial","sans-serif"'>Ver ejemplo figura siguiente:</span><o:p></o:p></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_9" o:spid="_x0000_i1036" type="#_x0000_t75" style='width:441.75pt;
+ height:255pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image015.png" o:title="" cropbottom="4987f"/>
+</v:shape><![endif]--><![if !vml]><img width=589 height=340
+src="ayuda_archivos/image016.jpg" v:shapes="Imagen_x0020_9"><![endif]></span><o:p></o:p></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_10" o:spid="_x0000_i1035" type="#_x0000_t75" style='width:441.75pt;
+ height:191.25pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image017.png" o:title="" croptop="20124f"/>
+</v:shape><![endif]--><![if !vml]><img width=589 height=255
+src="ayuda_archivos/image018.jpg" v:shapes="Imagen_x0020_10"><![endif]></span><o:p></o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><o:p>&nbsp;</o:p></b></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><o:p>&nbsp;</o:p></b></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'>Pantalla de Inicio de sesión de administrador</b>:<o:p></o:p></p>
+
+<p class=Default style='text-align:justify'><span style='font-family:"Arial","sans-serif"'>Debe
+ingresar el <span class=SpellE>Login</span> y <span class=SpellE>Password</span>
+correctamente y presionar el botón ingresar de no ingresar correctamente
+presentara error, o si deja campos vacíos.</span><span style='mso-bidi-font-size:
+11.0pt;font-family:"Arial","sans-serif"'> Ver ejemplo figura siguiente:</span><span
+style='font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
+
+<p class=Default><span style='mso-spacerun:yes'> </span><span
+style='mso-spacerun:yes'> </span><o:p></o:p></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_11" o:spid="_x0000_i1034" type="#_x0000_t75" style='width:300.75pt;
+ height:187.5pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image019.png" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=401 height=250
+src="ayuda_archivos/image020.jpg" v:shapes="Imagen_x0020_11"><![endif]></span><o:p></o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><b style='mso-bidi-font-weight:normal'>Pantalla de acceso
+correcto:<o:p></o:p></b></p>
+
+<p class=Default style='text-align:justify'><span style='font-family:"Arial","sans-serif"'>Si
+los datos son correctos presentara la opción en color amarrillo de acceder.</span><span
+style='mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif"'> Ver ejemplo
+figura siguiente:</span><span style='font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_12" o:spid="_x0000_i1033" type="#_x0000_t75" style='width:306pt;
+ height:191.25pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image021.png" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=408 height=255
+src="ayuda_archivos/image022.jpg" v:shapes="Imagen_x0020_12"><![endif]></span><o:p></o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+
+<p class=Default><b style='mso-bidi-font-weight:normal'>Pantalla Principal:<o:p></o:p></b></p>
+
+<p class=Default><span style='font-family:"Arial","sans-serif"'>Esta interfaz
+le permitirá al administrador, realizar las directas acciones que presenta la
+barra de menús. <span style='mso-spacerun:yes'> </span><span
+style='mso-spacerun:yes'> </span><span style='mso-spacerun:yes'> </span></span><span
+style='mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif"'>Ver ejemplo
+figura siguiente:</span><span style='font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_13" o:spid="_x0000_i1032" type="#_x0000_t75" style='width:441.75pt;
+ height:276pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image023.png" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=589 height=368
+src="ayuda_archivos/image024.jpg" v:shapes="Imagen_x0020_13"><![endif]></span><o:p></o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Pantalla de inscripción
+al evento: <o:p></o:p></span></b></p>
+
+<p class=Default style='text-align:justify'><span style='font-family:"Arial","sans-serif"'>Al
+momento de dirigirse al menú de navegación y presionar en inicio se desplazará
+la opción de información de evento y mostrara la pantalla de información de evento:<o:p></o:p></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>En la pestaña de
+Registrar:</span></b><span style='font-family:"Arial","sans-serif"'> permite ir
+a registrar un participante en el mismo se encuentra las siguientes acciones de
+botones:<o:p></o:p></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón nuevo:</span></b><span
+style='font-family:"Arial","sans-serif"'> Permite generar un Número o código
+del mismo para poder registrarse.<o:p></o:p></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Buscar: </span></b><span
+style='font-family:"Arial","sans-serif"'>permite buscar un participante,
+ingresado primero su número de cedula, y se cargara los datos en los campos de
+textos, y permitirá actualizar o eliminar si fuera el caso, caso contrario le
+presentara error. <span style='mso-spacerun:yes'> </span><o:p></o:p></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Insertar: </span></b><span
+style='font-family:"Arial","sans-serif"'>Permite guardar los datos para el
+evento, esto ocurre siempre y cuando estén llenos los datos sino le presentará
+un error. <b style='mso-bidi-font-weight:normal'><span
+style='mso-spacerun:yes'> </span><o:p></o:p></b></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Actualizar: </span></b><span
+style='font-family:"Arial","sans-serif"'>Permite actualizar los datos para el
+evento, esto ocurre siempre y cuando estén llenos los datos sino le presentará
+un error, y también realizar la acción del botón buscar. <b style='mso-bidi-font-weight:
+normal'><span style='mso-spacerun:yes'> </span><o:p></o:p></b></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Eliminar: </span></b><span
+style='font-family:"Arial","sans-serif"'>Permite eliminar los datos del
+participante, esto ocurre siempre y cuando estén llenos los datos sino le presentará
+un error, y también realizar la acción del botón buscar. <b style='mso-bidi-font-weight:
+normal'><span style='mso-spacerun:yes'> </span><o:p></o:p></b></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Listar: </span></b><span
+style='font-family:"Arial","sans-serif"'>Permite mostrar la tabla o matriz de
+los participantes registrados.<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Cancelar: </span></b><span
+style='font-family:"Arial","sans-serif"'>Permite salir de la aplicación en caso
+de no querer realizar ninguna acción.<o:p></o:p></span></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><span style='mso-spacerun:yes'> </span><span style='mso-bidi-font-size:
+11.0pt;font-family:"Arial","sans-serif"'>Ver ejemplo figura siguiente:</span><span
+style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_14" o:spid="_x0000_i1031" type="#_x0000_t75" style='width:441.75pt;
+ height:249.75pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image025.png" o:title="" cropbottom="6233f"/>
+</v:shape><![endif]--><![if !vml]><img width=589 height=333
+src="ayuda_archivos/image026.jpg" v:shapes="Imagen_x0020_14"><![endif]></span><o:p></o:p></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_15" o:spid="_x0000_i1030" type="#_x0000_t75" style='width:441.75pt;
+ height:138.75pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image027.png" o:title="" croptop="32590f"/>
+</v:shape><![endif]--><![if !vml]><img width=589 height=185
+src="ayuda_archivos/image028.jpg" v:shapes="Imagen_x0020_15"><![endif]></span><o:p></o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+
+<p class=Default><b style='mso-bidi-font-weight:normal'>Pantalla de buscar
+inscritos:<o:p></o:p></b></p>
+
+<p class=Default style='text-align:justify'>Al dirigirse a la pestaña de la
+barra de <span style='mso-spacerun:yes'> </span>menús opción registrar se
+desplazará la opción de buscar inscritos.<o:p></o:p></p>
+
+<p class=Default style='text-align:justify'><span style='mso-bidi-font-size:
+11.0pt;font-family:"Arial","sans-serif"'>Ver ejemplo figura siguiente:</span> <o:p></o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_16" o:spid="_x0000_i1029" type="#_x0000_t75" style='width:441.75pt;
+ height:276pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image029.png" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=589 height=368
+src="ayuda_archivos/image030.jpg" v:shapes="Imagen_x0020_16"><![endif]></span><o:p></o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'>Pantalla de crear cuentas de usuarios:<o:p></o:p></b></p>
+
+<p class=Default style='text-align:justify'><span style='font-family:"Arial","sans-serif"'>Al
+dirigirse a la pestaña de la barra de <span style='mso-spacerun:yes'> </span>menús
+opción cuentas de usuarios se desplazará la opción de crear<span
+style='mso-spacerun:yes'>  </span>cuentas de usuarios.<o:p></o:p></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón nuevo:</span></b><span
+style='font-family:"Arial","sans-serif"'> Permite generar un<span
+style='mso-spacerun:yes'>  </span>código <span
+style='mso-spacerun:yes'> </span>mismo para poder registrarse.<o:p></o:p></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Buscar: </span></b><span
+style='font-family:"Arial","sans-serif"'>permite buscar un usuario, ingresado
+primero su <span class=SpellE>login</span>, y se cargara los datos en los
+campos de textos, y permitirá actualizar o eliminar si fuera el caso, caso
+contrario le presentara error. <span style='mso-spacerun:yes'> </span><o:p></o:p></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Insertar: </span></b><span
+style='font-family:"Arial","sans-serif"'>Permite guardar los datos de la cuenta
+de usuario, esto ocurre siempre y cuando estén llenos los datos sino le presentará
+un error. <b style='mso-bidi-font-weight:normal'><span
+style='mso-spacerun:yes'> </span><o:p></o:p></b></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Actualizar: </span></b><span
+style='font-family:"Arial","sans-serif"'>Permite actualizar los datos para la
+cuenta de usuario, esto ocurre siempre y cuando estén llenos los datos sino le presentará
+un error, y también realizar la acción del botón buscar. <b style='mso-bidi-font-weight:
+normal'><span style='mso-spacerun:yes'> </span><o:p></o:p></b></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Eliminar: </span></b><span
+style='font-family:"Arial","sans-serif"'>Permite eliminar los datos de la
+cuenta de usuario, esto ocurre siempre y cuando estén llenos los datos sino le presentará
+un error, y también realizar la acción del botón buscar. <b style='mso-bidi-font-weight:
+normal'><span style='mso-spacerun:yes'> </span><o:p></o:p></b></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Listar: </span></b><span
+style='font-family:"Arial","sans-serif"'>Permite mostrar la tabla o matriz de
+los usuarios registrados.<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+
+<p class=Default style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Arial","sans-serif"'>Botón Cancelar: </span></b><span
+style='font-family:"Arial","sans-serif"'>Permite salir de la aplicación en caso
+de no querer realizar ninguna acción.<o:p></o:p></span></p>
+
+<p class=Default style='text-align:justify'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=Default style='text-align:justify'><span style='mso-bidi-font-size:
+11.0pt;font-family:"Arial","sans-serif"'>Ver ejemplo figura siguiente:</span><span
+style='font-family:"Arial","sans-serif"'> <o:p></o:p></span></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_17" o:spid="_x0000_i1028" type="#_x0000_t75" style='width:441.75pt;
+ height:276pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image031.png" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=589 height=368
+src="ayuda_archivos/image032.jpg" v:shapes="Imagen_x0020_17"><![endif]></span><o:p></o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><b style='mso-bidi-font-weight:normal'>Pantalla de buscar
+cuentas de usuarios: <o:p></o:p></b></p>
+
+<p class=Default style='text-align:justify'>Al dirigirse a la pestaña de la
+barra de <span style='mso-spacerun:yes'> </span>menús opción Cuentas de usuarios
+<span style='mso-spacerun:yes'> </span>se desplazará la opción de buscar
+cuentas.<o:p></o:p></p>
+
+<p class=Default style='text-align:justify'><span style='mso-bidi-font-size:
+11.0pt;font-family:"Arial","sans-serif"'>Ver ejemplo figura siguiente:</span> <o:p></o:p></p>
+
+<p class=Default><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_18" o:spid="_x0000_i1027" type="#_x0000_t75" style='width:425.25pt;
+ height:172.5pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image033.png" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=567 height=230
+src="ayuda_archivos/image034.jpg" v:shapes="Imagen_x0020_18"><![endif]></span><o:p></o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><b style='mso-bidi-font-weight:normal'>Pantalla de derechos de
+autor:<o:p></o:p></b></p>
+
+<p class=Default style='text-align:justify'><span style='font-family:"Arial","sans-serif"'>Al
+dirigirse a la pestaña de la barra de <span style='mso-spacerun:yes'> </span>menús
+opción Acerca de se desplazará la opción de Autor.<o:p></o:p></span></p>
+
+<p class=Default style='text-align:justify'><span style='mso-bidi-font-size:
+11.0pt;font-family:"Arial","sans-serif"'>Ver ejemplo figura siguiente:</span><span
+style='font-family:"Arial","sans-serif"'> <o:p></o:p></span></p>
+
+<p class=Default><o:p>&nbsp;</o:p></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_19" o:spid="_x0000_i1026" type="#_x0000_t75" style='width:441.75pt;
+ height:211.5pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image035.png" o:title="" cropbottom="15315f"/>
+</v:shape><![endif]--><![if !vml]><img width=589 height=282
+src="ayuda_archivos/image036.jpg" v:shapes="Imagen_x0020_19"><![endif]></span><o:p></o:p></p>
+
+<p class=Default><span style='mso-fareast-language:ES-EC;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagen_x0020_20" o:spid="_x0000_i1025" type="#_x0000_t75" style='width:441.75pt;
+ height:90pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="ayuda_archivos/image037.png" o:title="" croptop="44165f"/>
+</v:shape><![endif]--><![if !vml]><img width=589 height=120
+src="ayuda_archivos/image038.jpg" v:shapes="Imagen_x0020_20"><![endif]></span></p>
+
+</div>
+
+</body>
+
+</html>
