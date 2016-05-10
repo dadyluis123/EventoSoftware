@@ -1,0 +1,83 @@
+-- phpMyAdmin SQL Dump
+-- version 4.5.1
+-- http://www.phpmyadmin.net
+--
+-- Servidor: 127.0.0.1
+-- Tiempo de generación: 02-05-2016 a las 19:00:48
+-- Versión del servidor: 10.1.10-MariaDB
+-- Versión de PHP: 5.6.19
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Base de datos: `eventosoftwarebd`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Estructura de tabla para la tabla `tb_inscritos`
+--
+
+CREATE TABLE `tb_inscritos` (
+  `Id` int(10) NOT NULL,
+  `Nombres` varchar(40) NOT NULL,
+  `Apellidos` varchar(40) NOT NULL,
+  `Correo` varchar(40) NOT NULL,
+  `Fecha_Nacimiento` varchar(40) NOT NULL,
+  `Cedula` varchar(20) NOT NULL,
+  `Direccion` varchar(200) NOT NULL,
+  `Telefono` varchar(20) NOT NULL,
+  `Taller` varchar(40) NOT NULL,
+  `Forma_Pago` varchar(40) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Volcado de datos para la tabla `tb_inscritos`
+--
+
+INSERT INTO `tb_inscritos` (`Id`, `Nombres`, `Apellidos`, `Correo`, `Fecha_Nacimiento`, `Cedula`, `Direccion`, `Telefono`, `Taller`, `Forma_Pago`) VALUES
+(2, 'Carlos', 'Torres', 'manueltorres@yahoo.com', '22', '1323445', 'Catamayo', '2677', 'Software', 'Diferido'),
+(3, 'Diana  ', 'Quinde  ', 'dianaquinde@yahoo.com', '12  ', '1189854  ', 'Guayas  ', '1234567  ', 'TIC  ', 'Credito  '),
+(1, 'Luis  ', 'Tillaguango  ', 'luistillaguango@yahoo.com', '23  ', '197389406  ', 'Machala  ', '46799  ', 'TIC', 'Contado'),
+(2, 'Diego  ', 'Guaman  ', 'diego@yahoo.com', '23', '123456789', 'Guayas', '2677', 'Software', 'Contado'),
+(3, 'Carlos', 'Torres', 'torcra@yahoo.com', '30', '123456789', 'loja', '4567', 'Software', 'Contado'),
+(4, 'Luis', 'Quezada', 'luistillaguango@gmail.com', '23', '1104', 'loja', '2677', 'Software', 'Contado'),
+(5, '', '', '', '22', '11044', '', '', '', ''),
+(6, 'Damaris', 'Tillaguango', 'manueltorres@yahoo.com', '22', '11', 'Catamayo', '2677', 'Software', 'Contado'),
+(8, 'Carlos', 'Torres', 'manueltorres@yahoo.com', '22', '1323445', 'quito', '2677', 'Software', 'Contado'),
+(1, 'Carlos', 'Torres', 'dianaquinde@yahoo.com', '23', '1323445', 'quito', '2677', 'Software', 'Contado'),
+(2, 'Luis', 'Tillaguango', 'luistillaguango@gmail.com', '23', '123456789', 'loja', '2677', 'Software', 'Contado'),
+(3, 'Luis', 'Tillaguango', 'luistillaguango@yahoo.com', '23', '1104476575', 'loja', '3435676', 'DiseÃ±o Grafico', 'Contado');
+
+-- --------------------------------------------------------
+
+--
+-- Estructura de tabla para la tabla `tb_usuarios`
+--
+
+CREATE TABLE `tb_usuarios` (
+  `Id` int(10) NOT NULL,
+  `Login` varchar(40) NOT NULL,
+  `Contrasena` varchar(40) NOT NULL,
+  `Tipo` varchar(40) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Volcado de datos para la tabla `tb_usuarios`
+--
+
+INSERT INTO `tb_usuarios` (`Id`, `Login`, `Contrasena`, `Tipo`) VALUES
+(1, 'admin', '123', 'Administrador'),
+(2, 'luis', 'root', 'Normal');
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
