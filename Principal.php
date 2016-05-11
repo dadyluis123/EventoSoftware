@@ -92,14 +92,14 @@
                </ul>
             </li>
            
-            <li><a href=â€â€> Ayuda</a>
+            <li><a href=””> Ayuda</a>
                     <ul>
                    <li><a href="ayuda.html">Pantallas</a></li>
                       
                    </ul>
             </li>
 			
-			 <li><a href=â€â€> Cerrar Sesion</a>
+			 <li><a href=””> Cerrar Sesion</a>
                     <ul>
                    <li><a href="Bienvenidos.php">Cerrar Sesion</a></li>
                       
@@ -134,7 +134,7 @@
 <td><h1><font color="FFFFFF"> -Taller de Hardware</font></h1></td>
 </tr>
 <tr>
-<td> <h1><font color="FFFFFF"> -Taller de DiseÃ±o Grafico</font></h1><td>
+<td> <h1><font color="FFFFFF"> -Taller de Diseño Grafico</font></h1><td>
 </tr>
 </table></center>
 			
